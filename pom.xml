@@ -30,7 +30,7 @@
                     <systemProperties>
                         <property>
                             <name>allure.results.directory</name>
-                            <value>C:\Program Files (x86)\Jenkins\workspace\Second\allure-results</value>
+                            <value>C:\Program Files (x86)\Jenkins\workspace\Last\allure-results</value>
                         </property>
                     </systemProperties>
                 </configuration>
